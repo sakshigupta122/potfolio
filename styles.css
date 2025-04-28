@@ -314,19 +314,15 @@ section .title::after {
   content: "what i know";
 }
 .skills .carousel .card {
-  background: #222;
+  background: #e3bef6;
   border-radius: 6px;
   padding: 25px 35px;
   text-align: center;
   overflow: hidden;
   transition: all 0.3s ease;
 }
-.skills .carousel .card {
-  color: white;
-}
 .skills .carousel .card:hover {
   background: rgba(159, 15, 237, 0.395);
-  color: #111;
 }
 .skills .carousel .card .box {
   display: flex;
@@ -410,7 +406,7 @@ section .title::after {
   font-weight: 500;
 }
 .contact .contact-content .info .sub-title {
-  color: #333;
+  color: #8b40c1;
 }
 .contact .right form .fields {
   display: flex;
